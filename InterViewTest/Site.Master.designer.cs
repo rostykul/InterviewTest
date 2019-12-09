@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace InterViewDemo
+namespace InterViewTest
 {
 
 

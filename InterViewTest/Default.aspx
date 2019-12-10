@@ -3,6 +3,8 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    <p>Hello World</p>
+    <asp:Label ID="Label1" runat="server" Text="Sample Text"></asp:Label>
+    <p></p>
+    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Change Text" />
 
 </asp:Content>
